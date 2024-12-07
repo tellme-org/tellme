@@ -1,0 +1,6 @@
+[submodule "apps/webclient"]
+	path = apps/webclient
+	url = https://github.com/tellme-org/webclient.git 
+[submodule "apps/auth-service"]
+	path = apps/auth-service
+	url = https://github.com/tellme-org/auth-service.git
