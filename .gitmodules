@@ -4,3 +4,6 @@
 [submodule "apps/auth-service"]
 	path = apps/auth-service
 	url = https://github.com/tellme-org/auth-service.git
+[submodule "apps/api-gateway"]
+	path = apps/api-gateway
+	url = https://github.com/tellme-org/api-gateway.git
